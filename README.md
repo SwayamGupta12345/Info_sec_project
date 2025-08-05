@@ -14,8 +14,6 @@
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [File Descriptions](#file-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -123,9 +121,10 @@
 ## Contact
 
 - **GitHub:** [SwayamGupta12345](https://github.com/SwayamGupta12345)
-- **Email:**  [Swayam Gupta](swayamsam2005@gmail.com)
+- **Email:**  swayamsam2005@gmail.com
 
 For questions or suggestions, please open an issue in this repository.
 
 ---
+
 
