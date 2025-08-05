@@ -120,22 +120,12 @@
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, create a branch, and submit a pull request with your changes.
-
----
-
-## License
-
-This repository does not currently specify a license. Please contact the repository owner for licensing details.
-
----
-
 ## Contact
 
 - **GitHub:** [SwayamGupta12345](https://github.com/SwayamGupta12345)
+- **Email:**  [Swayam Gupta](swayamsam2005@gmail.com)
 
 For questions or suggestions, please open an issue in this repository.
 
 ---
+
